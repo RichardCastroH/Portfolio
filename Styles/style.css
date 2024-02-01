@@ -142,3 +142,33 @@ strong {
     }
     
 }
+
+@media (max-width:414px) {
+
+    .cabecalho {
+        padding: 6%;    
+    }
+
+    .cabecalho__menu {
+        justify-content: center;
+        width: 100%;
+    }
+
+    .apresentacao {
+        flex-direction: column-reverse;
+        width: auto;
+    }
+
+    .apresentacao__conteudo {
+        width: auto;
+    }
+
+    .apresentacao__conteudo__titulo{
+        width: auto;
+    }
+     
+    .apresentacao__links__navegacao {
+        width: 100%;
+    }
+
+}
