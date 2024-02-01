@@ -158,13 +158,17 @@ strong {
         flex-direction: column-reverse;
         width: auto;
     }
+    
+    .apresentacao__conteudo__titulo {
+        width: auto;
+    }
 
     .apresentacao__conteudo {
         width: auto;
     }
 
-    .apresentacao__conteudo__titulo{
-        width: auto;
+    .apresentacao__conteudo__texto {
+        width: 100%;
     }
      
     .apresentacao__links__navegacao {
